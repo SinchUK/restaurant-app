@@ -1,7 +1,7 @@
 {
     "name": "restaurant-app",
     "version": "0.1.0",
-    "homepage": "https://github.com/SinchUK/restaurant-app",
+    "homepage": "https://github.com/restaurant-app",
     "private": false,
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.5",
